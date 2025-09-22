@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**naureen-codes/naureen-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey! I'm Naureen 👋🏻(^-^)/
 
-Here are some ideas to get you started:
+🌱 **Learning Python** 🐍  
+🛠 **Building small projects** and practicing coding  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 Goals
+- 🚀 Become an expert in Python  
+- 💡 Build cool projects  
+- ✨ Share my little journey here  
+
+---
+
+📫 **Reach me at:** Khadeejanaureensv@gmail.com
+💻 **GitHub:** [github.com/naureen-codes](https://github.com/naureen-codes)
